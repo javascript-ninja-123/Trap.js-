@@ -68,6 +68,10 @@ a{
 	justify-content: center;
 	margin-top:calc(9% - 1px);
 }
+.heroicImage a{
+  color:purple;
+  text-decoration: underline;
+}
 .heroicImage>img{
 	width:250px;
 	padding:1.2em;
